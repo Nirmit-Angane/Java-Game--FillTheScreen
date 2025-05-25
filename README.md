@@ -21,7 +21,7 @@ A dynamic arcade shooter where your goal is to expand the play area by defeating
 ## Download
 
 Get the latest playable version:
-[Download FillTheScreen.jar](https://github.com/yourname/Java-Game--FillTheScreen/releases/latest)
+[Download FillTheScreen.jar](https://github.com/Nirmit-Angane/Java-Game--FillTheScreen/releases/latest)
 
 ## Error Resolution Note :
 
