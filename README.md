@@ -3,7 +3,7 @@ A dynamic arcade shooter where your goal is to expand the play area by defeating
 
 ## Features ✨
 - 🔫 Auto-aiming with mouse control
-- 🏆 Progressive difficulty - screen grows with each kill
+- 🏆 Progressive difficulty - screen grows with each kill 
 - 👾 Epic boss battles
 - 💥 Particle explosion effects
 - 📊 Score tracking and time attack mode
