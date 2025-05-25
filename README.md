@@ -18,6 +18,11 @@ A dynamic arcade shooter where your goal is to expand the play area by defeating
   - Fill the screen by killing enemies
   - Defeat the final boss to win!
 
+## Download
+
+Get the latest playable version:
+[Download FillTheScreen.jar](https://github.com/yourname/Java-Game--FillTheScreen/releases/latest)
+
 ## Error Resolution Note :
 
 If you encounter errors in FillTheScreen.java, please ensure all three required files are open in your IDE:
