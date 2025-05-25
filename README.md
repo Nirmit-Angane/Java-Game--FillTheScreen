@@ -22,8 +22,6 @@ A dynamic arcade shooter where your goal is to expand the play area by defeating
 
 If you encounter errors in FillTheScreen.java, please ensure all three required files are open in your IDE:
 
-FillTheScreen.java
-
-GameObject.java
-
-GameRenderer.java
+- FillTheScreen.java
+- GameObject.java
+- GameRenderer.java
